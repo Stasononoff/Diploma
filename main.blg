@@ -3,44 +3,47 @@ Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: main.aux
 The style file: abbrvnat.bst
 Database file #1: library.bib
-You've used 1 entry,
+Warning--empty booktitle in KAK1995259
+Warning--empty journal in https://doi.org/10.48550/arxiv.hep-th/9312092
+You've used 47 entries,
             2773 wiz_defined-function locations,
-            597 strings with 4831 characters,
-and the built_in function-call counts, 831 in all, are:
-= -- 55
-> -- 102
-< -- 0
-+ -- 34
-- -- 33
-* -- 82
-:= -- 142
-add.period$ -- 2
-call.type$ -- 1
-change.case$ -- 14
-chr.to.int$ -- 1
-cite$ -- 2
-duplicate$ -- 16
-empty$ -- 34
-format.name$ -- 34
-if$ -- 156
-int.to.chr$ -- 1
+            964 strings with 16184 characters,
+and the built_in function-call counts, 25162 in all, are:
+= -- 2221
+> -- 1862
+< -- 20
++ -- 629
+- -- 579
+* -- 2330
+:= -- 4030
+add.period$ -- 217
+call.type$ -- 47
+change.case$ -- 334
+chr.to.int$ -- 44
+cite$ -- 96
+duplicate$ -- 956
+empty$ -- 1691
+format.name$ -- 642
+if$ -- 5154
+int.to.chr$ -- 4
 int.to.str$ -- 1
-missing$ -- 0
-newline$ -- 12
-num.names$ -- 4
-pop$ -- 32
+missing$ -- 38
+newline$ -- 317
+num.names$ -- 188
+pop$ -- 570
 preamble$ -- 1
-purify$ -- 13
+purify$ -- 287
 quote$ -- 0
-skip$ -- 25
+skip$ -- 808
 stack$ -- 0
-substring$ -- 2
-swap$ -- 1
-text.length$ -- 0
+substring$ -- 520
+swap$ -- 123
+text.length$ -- 4
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 11
-warning$ -- 0
-while$ -- 3
+type$ -- 517
+warning$ -- 2
+while$ -- 171
 width$ -- 0
-write$ -- 17
+write$ -- 759
+(There were 2 warnings)

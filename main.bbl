@@ -1,9 +1,325 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{47}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Abbas et~al.(2021)Abbas, Sutter, Zoufal, Lucchi, Figalli, and
+  Woerner]{Abbas_2021}
+A.~Abbas, D.~Sutter, C.~Zoufal, A.~Lucchi, A.~Figalli, and S.~Woerner.
+\newblock The power of quantum neural networks.
+\newblock \emph{Nature Computational Science}, 1\penalty0 (6):\penalty0
+  403--409, jun 2021.
+\newblock \doi{10.1038/s43588-021-00084-1}.
+\newblock URL \url{https://doi.org/10.1038%2Fs43588-021-00084-1}.
+
+\bibitem[Borzenkova et~al.(2021)Borzenkova, Struchalin, Kardashin, Krasnikov,
+  Skryabin, Straupe, Kulik, and Biamonte]{Borzenkova_2021}
+O.~V. Borzenkova, G.~I. Struchalin, A.~S. Kardashin, V.~V. Krasnikov, N.~N.
+  Skryabin, S.~S. Straupe, S.~P. Kulik, and J.~D. Biamonte.
+\newblock Variational simulation of schwinger's hamiltonian with polarization
+  qubits.
+\newblock \emph{Applied Physics Letters}, 118\penalty0 (14):\penalty0 144002,
+  apr 2021.
+\newblock \doi{10.1063/5.0043322}.
+\newblock URL \url{https://doi.org/10.1063%2F5.0043322}.
+
+\bibitem[Buyens et~al.(2016)Buyens, Verstraete, and Acoleyen]{Buyens_2016}
+B.~Buyens, F.~Verstraete, and K.~V. Acoleyen.
+\newblock Hamiltonian simulation of the schwinger model at finite temperature.
+\newblock \emph{Physical Review D}, 94\penalty0 (8), oct 2016.
+\newblock \doi{10.1103/physrevd.94.085018}.
+\newblock URL \url{https://doi.org/10.1103%2Fphysrevd.94.085018}.
+
+\bibitem[Cao et~al.(2018)Cao, Romero, and
+  Aspuru-Guzik]{10.1147/JRD.2018.2888987}
+Y.~Cao, J.~Romero, and A.~Aspuru-Guzik.
+\newblock Potential of quantum computing for drug discovery.
+\newblock \emph{IBM J. Res. Dev.}, 62\penalty0 (6), nov 2018.
+\newblock ISSN 0018-8646.
+\newblock \doi{10.1147/JRD.2018.2888987}.
+\newblock URL \url{https://doi.org/10.1147/JRD.2018.2888987}.
+
+\bibitem[Cerezo et~al.(2021{\natexlab{a}})Cerezo, Arrasmith, Babbush, Benjamin,
+  Endo, Fujii, McClean, Mitarai, Yuan, Cincio, and Coles]{Cerezo_2021}
+M.~Cerezo, A.~Arrasmith, R.~Babbush, S.~C. Benjamin, S.~Endo, K.~Fujii, J.~R.
+  McClean, K.~Mitarai, X.~Yuan, L.~Cincio, and P.~J. Coles.
+\newblock Variational quantum algorithms.
+\newblock \emph{Nature Reviews Physics}, 3\penalty0 (9):\penalty0 625--644, aug
+  2021{\natexlab{a}}.
+\newblock \doi{10.1038/s42254-021-00348-9}.
+\newblock URL \url{https://doi.org/10.1038%2Fs42254-021-00348-9}.
+
+\bibitem[Cerezo et~al.(2021{\natexlab{b}})Cerezo, Sone, Volkoff, Cincio, and
+  Coles]{Cost_func_and_landscape}
+M.~Cerezo, A.~Sone, T.~Volkoff, L.~Cincio, and P.~J. Coles.
+\newblock Cost function dependent barren plateaus in shallow parametrized
+  quantum circuits.
+\newblock \emph{Nature Communications}, 12\penalty0 (1), mar
+  2021{\natexlab{b}}.
+\newblock \doi{10.1038/s41467-021-21728-w}.
+\newblock URL \url{https://doi.org/10.1038%2Fs41467-021-21728-w}.
+
+\bibitem[Derzhko(2001)]{article}
+O.~Derzhko.
+\newblock Jordan-wigner fermionization for spin-{1/2} systems in two
+  dimensions: A brief review.
+\newblock \emph{Journal of Physical Studies}, 5:\penalty0 49--64, 01 2001.
+\newblock \doi{10.30970/jps.05.49}.
+
+\bibitem[Dumitrescu et~al.(2018)Dumitrescu, McCaskey, Hagen, Jansen, Morris,
+  Papenbrock, Pooser, Dean, and Lougovski]{Dumitrescu_2018}
+E.~Dumitrescu, A.~McCaskey, G.~Hagen, G.~Jansen, T.~Morris, T.~Papenbrock,
+  R.~Pooser, D.~Dean, and P.~Lougovski.
+\newblock Cloud quantum computing of an atomic nucleus.
+\newblock \emph{Physical Review Letters}, 120\penalty0 (21), may 2018.
+\newblock \doi{10.1103/physrevlett.120.210501}.
+\newblock URL \url{https://doi.org/10.1103%2Fphysrevlett.120.210501}.
+
+\bibitem[Eisert et~al.(2010)Eisert, Cramer, and Plenio]{RevModPhys.82.277}
+J.~Eisert, M.~Cramer, and M.~B. Plenio.
+\newblock Colloquium: Area laws for the entanglement entropy.
+\newblock \emph{Rev. Mod. Phys.}, 82:\penalty0 277--306, Feb 2010.
+\newblock \doi{10.1103/RevModPhys.82.277}.
+\newblock URL \url{https://link.aps.org/doi/10.1103/RevModPhys.82.277}.
+
+\bibitem[Farhi et~al.(2014{\natexlab{a}})Farhi, Goldstone, and Gutmann]{QAOA}
+E.~Farhi, J.~Goldstone, and S.~Gutmann.
+\newblock A quantum approximate optimization algorithm, 2014{\natexlab{a}}.
+\newblock URL \url{https://arxiv.org/abs/1411.4028}.
+
+\bibitem[Farhi et~al.(2014{\natexlab{b}})Farhi, Goldstone, and
+  Gutmann]{https://doi.org/10.48550/arxiv.1411.4028}
+E.~Farhi, J.~Goldstone, and S.~Gutmann.
+\newblock A quantum approximate optimization algorithm, 2014{\natexlab{b}}.
+\newblock URL \url{https://arxiv.org/abs/1411.4028}.
+
+\bibitem[Feynman(1982)]{feynman1982simulating}
+R.~P. Feynman.
+\newblock Simulating physics with computers.
+\newblock \emph{International journal of theoretical physics}, 21\penalty0
+  (6/7):\penalty0 467--488, 1982.
+
+\bibitem[Foss-Feig et~al.(2021)Foss-Feig, Hayes, Dreiling, Figgatt, Gaebler,
+  Moses, Pino, and Potter]{Foss_Feig_2021}
+M.~Foss-Feig, D.~Hayes, J.~M. Dreiling, C.~Figgatt, J.~P. Gaebler, S.~A. Moses,
+  J.~M. Pino, and A.~C. Potter.
+\newblock Holographic quantum algorithms for simulating correlated spin
+  systems.
+\newblock \emph{Physical Review Research}, 3\penalty0 (3), jul 2021.
+\newblock \doi{10.1103/physrevresearch.3.033002}.
+\newblock URL \url{https://doi.org/10.1103%2Fphysrevresearch.3.033002}.
+
+\bibitem[Grant et~al.(2019)Grant, Wossnig, Ostaszewski, and
+  Benedetti]{Grant_2019}
+E.~Grant, L.~Wossnig, M.~Ostaszewski, and M.~Benedetti.
+\newblock An initialization strategy for addressing barren plateaus in
+  parametrized quantum circuits.
+\newblock \emph{Quantum}, 3:\penalty0 214, dec 2019.
+\newblock \doi{10.22331/q-2019-12-09-214}.
+\newblock URL \url{https://doi.org/10.22331%2Fq-2019-12-09-214}.
+
+\bibitem[Grover(1996)]{Grover}
+L.~K. Grover.
+\newblock A fast quantum mechanical algorithm for database search.
+\newblock In \emph{Proceedings of the Twenty-Eighth Annual ACM Symposium on
+  Theory of Computing}, STOC '96, page 212–219, New York, NY, USA, 1996.
+  Association for Computing Machinery.
+\newblock ISBN 0897917855.
+\newblock \doi{10.1145/237814.237866}.
+\newblock URL \url{https://doi.org/10.1145/237814.237866}.
+
+\bibitem[Guerreschi and Smelyanskiy(2017)]{param_shift}
+G.~G. Guerreschi and M.~Smelyanskiy.
+\newblock Practical optimization for hybrid quantum-classical algorithms, 2017.
+\newblock URL \url{https://arxiv.org/abs/1701.01450}.
+
+\bibitem[Holmes et~al.(2022)Holmes, Sharma, Cerezo, and Coles]{Holmes_2022}
+Z.~Holmes, K.~Sharma, M.~Cerezo, and P.~J. Coles.
+\newblock Connecting ansatz expressibility to gradient magnitudes and barren
+  plateaus.
+\newblock \emph{{PRX} Quantum}, 3\penalty0 (1), jan 2022.
+\newblock \doi{10.1103/prxquantum.3.010313}.
+\newblock URL \url{https://doi.org/10.1103%2Fprxquantum.3.010313}.
+
+\bibitem[Huggins et~al.(2021)Huggins, McClean, Rubin, Jiang, Wiebe, Whaley, and
+  Babbush]{Huggins_2021}
+W.~J. Huggins, J.~R. McClean, N.~C. Rubin, Z.~Jiang, N.~Wiebe, K.~B. Whaley,
+  and R.~Babbush.
+\newblock Efficient and noise resilient measurements for quantum chemistry on
+  near-term quantum computers.
+\newblock \emph{npj Quantum Information}, 7\penalty0 (1), feb 2021.
+\newblock \doi{10.1038/s41534-020-00341-7}.
+\newblock URL \url{https://doi.org/10.1038%2Fs41534-020-00341-7}.
+
+\bibitem[Kak(1995)]{KAK1995259}
+S.~C. Kak.
+\newblock Quantum neural computing.
+\newblock volume~94 of \emph{Advances in Imaging and Electron Physics}, pages
+  259--313. Elsevier, 1995.
+\newblock \doi{https://doi.org/10.1016/S1076-5670(08)70147-2}.
+\newblock URL
+  \url{https://www.sciencedirect.com/science/article/pii/S1076567008701472}.
+
+\bibitem[Kingma and Ba(2014)]{https://doi.org/10.48550/arxiv.1412.6980}
+D.~P. Kingma and J.~Ba.
+\newblock Adam: A method for stochastic optimization, 2014.
+\newblock URL \url{https://arxiv.org/abs/1412.6980}.
+
+\bibitem[Kok et~al.(2007)Kok, Munro, Nemoto, Ralph, Dowling, and
+  Milburn]{RevModPhys.79.135}
+P.~Kok, W.~J. Munro, K.~Nemoto, T.~C. Ralph, J.~P. Dowling, and G.~J. Milburn.
+\newblock Linear optical quantum computing with photonic qubits.
+\newblock \emph{Rev. Mod. Phys.}, 79:\penalty0 135--174, Jan 2007.
+\newblock \doi{10.1103/RevModPhys.79.135}.
+\newblock URL \url{https://link.aps.org/doi/10.1103/RevModPhys.79.135}.
+
+\bibitem[Liu et~al.(2019)Liu, Zhang, Wan, and Wang]{Liu_2019}
+J.-G. Liu, Y.-H. Zhang, Y.~Wan, and L.~Wang.
+\newblock Variational quantum eigensolver with fewer qubits.
+\newblock \emph{Physical Review Research}, 1\penalty0 (2), sep 2019.
+\newblock \doi{10.1103/physrevresearch.1.023025}.
+\newblock URL \url{https://doi.org/10.1103%2Fphysrevresearch.1.023025}.
+
+\bibitem[Loss and DiVincenzo(1998)]{PhysRevA.57.120}
+D.~Loss and D.~P. DiVincenzo.
+\newblock Quantum computation with quantum dots.
+\newblock \emph{Phys. Rev. A}, 57:\penalty0 120--126, Jan 1998.
+\newblock \doi{10.1103/PhysRevA.57.120}.
+\newblock URL \url{https://link.aps.org/doi/10.1103/PhysRevA.57.120}.
+
+\bibitem[Marrero et~al.(2020)Marrero, Kieferová, and
+  Wiebe]{entangled_barren_plateaus}
+C.~O. Marrero, M.~Kieferová, and N.~Wiebe.
+\newblock Entanglement induced barren plateaus, 2020.
+\newblock URL \url{https://arxiv.org/abs/2010.15968}.
+
+\bibitem[McClean et~al.(2018)McClean, Boixo, Smelyanskiy, Babbush, and
+  Neven]{McClean_2018}
+J.~R. McClean, S.~Boixo, V.~N. Smelyanskiy, R.~Babbush, and H.~Neven.
+\newblock Barren plateaus in quantum neural network training landscapes.
+\newblock \emph{Nature Communications}, 9\penalty0 (1), nov 2018.
+\newblock \doi{10.1038/s41467-018-07090-4}.
+\newblock URL \url{https://doi.org/10.1038%2Fs41467-018-07090-4}.
+
+\bibitem[Outeiral et~al.(2020)Outeiral, Strahm, Shi, Morris, Benjamin, and
+  Deane]{Outeiral_2020}
+C.~Outeiral, M.~Strahm, J.~Shi, G.~M. Morris, S.~C. Benjamin, and C.~M. Deane.
+\newblock The prospects of quantum computing in computational molecular
+  biology.
+\newblock \emph{{WIREs} Computational Molecular Science}, 11\penalty0 (1), may
+  2020.
+\newblock \doi{10.1002/wcms.1481}.
+\newblock URL \url{https://doi.org/10.1002%2Fwcms.1481}.
+
+\bibitem[Pesah et~al.(2021)Pesah, Cerezo, Wang, Volkoff, Sornborger, and
+  Coles]{QCNN}
+A.~Pesah, M.~Cerezo, S.~Wang, T.~Volkoff, A.~T. Sornborger, and P.~J. Coles.
+\newblock Absence of barren plateaus in quantum convolutional neural networks.
+\newblock \emph{Physical Review X}, 11\penalty0 (4), oct 2021.
+\newblock \doi{10.1103/physrevx.11.041011}.
+\newblock URL \url{https://doi.org/10.1103%2Fphysrevx.11.041011}.
+
+\bibitem[Preskill(2018)]{Preskill2018quantumcomputingin}
+J.~Preskill.
+\newblock Quantum {C}omputing in the {NISQ} era and beyond.
+\newblock \emph{{Quantum}}, 2:\penalty0 79, Aug. 2018.
+\newblock ISSN 2521-327X.
+\newblock \doi{10.22331/q-2018-08-06-79}.
+\newblock URL \url{https://doi.org/10.22331/q-2018-08-06-79}.
+
+\bibitem[Qi et~al.(2018)Qi, Helt, Su, Vernon, and
+  Brádler]{universal_linear_loop}
+H.~Qi, L.~G. Helt, D.~Su, Z.~Vernon, and K.~Brádler.
+\newblock Linear multiport photonic interferometers: loss analysis of
+  temporally-encoded architectures, 2018.
+\newblock URL \url{https://arxiv.org/abs/1812.07015}.
+
+\bibitem[Recati et~al.(2002)Recati, Calarco, Zanardi, Cirac, and
+  Zoller]{PhysRevA.66.032309}
+A.~Recati, T.~Calarco, P.~Zanardi, J.~I. Cirac, and P.~Zoller.
+\newblock Holonomic quantum computation with neutral atoms.
+\newblock \emph{Phys. Rev. A}, 66:\penalty0 032309, Sep 2002.
+\newblock \doi{10.1103/PhysRevA.66.032309}.
+\newblock URL \url{https://link.aps.org/doi/10.1103/PhysRevA.66.032309}.
+
+\bibitem[Rudolph et~al.(2021)Rudolph, Sim, Raza, Stechly, McClean, Anschuetz,
+  Serrano, and Perdomo-Ortiz]{https://doi.org/10.48550/arxiv.2111.04695}
+M.~S. Rudolph, S.~Sim, A.~Raza, M.~Stechly, J.~R. McClean, E.~R. Anschuetz,
+  L.~Serrano, and A.~Perdomo-Ortiz.
+\newblock Orqviz: Visualizing high-dimensional landscapes in variational
+  quantum algorithms, 2021.
+\newblock URL \url{https://arxiv.org/abs/2111.04695}.
+
+\bibitem[Sawicki and
+  Ahluwalia(1993)]{https://doi.org/10.48550/arxiv.hep-th/9312092}
+M.~Sawicki and D.~V. Ahluwalia.
+\newblock Parity transformation in the front form.
+\newblock 1993.
+\newblock \doi{10.48550/ARXIV.HEP-TH/9312092}.
+\newblock URL \url{https://arxiv.org/abs/hep-th/9312092}.
+
+\bibitem[Seeley et~al.(2012)Seeley, Richard, and Love]{Seeley_2012}
+J.~T. Seeley, M.~J. Richard, and P.~J. Love.
+\newblock The bravyi-kitaev transformation for quantum computation of
+  electronic structure.
+\newblock \emph{The Journal of Chemical Physics}, 137\penalty0 (22):\penalty0
+  224109, dec 2012.
+\newblock \doi{10.1063/1.4768229}.
+\newblock URL \url{https://doi.org/10.1063%2F1.4768229}.
+
+\bibitem[Shikano et~al.(2021)Shikano, Watanabe, Nakanishi, and
+  ya~Ohnishi]{Shikano_2021}
+Y.~Shikano, H.~C. Watanabe, K.~M. Nakanishi, and Y.~ya~Ohnishi.
+\newblock Post-hartree{\textendash}fock method in quantum chemistry for quantum
+  computer.
+\newblock \emph{The European Physical Journal Special Topics}, 230\penalty0
+  (4):\penalty0 1037--1051, apr 2021.
+\newblock \doi{10.1140/epjs/s11734-021-00087-z}.
+\newblock URL \url{https://doi.org/10.1140%2Fepjs%2Fs11734-021-00087-z}.
+
+\bibitem[Shor(1994)]{Shor}
+P.~Shor.
+\newblock Algorithms for quantum computation: discrete logarithms and
+  factoring.
+\newblock In \emph{Proceedings 35th Annual Symposium on Foundations of Computer
+  Science}, pages 124--134, 1994.
+\newblock \doi{10.1109/SFCS.1994.365700}.
+
+\bibitem[Sim et~al.(2019)Sim, Johnson, and Aspuru-Guzik]{Sim_2019}
+S.~Sim, P.~D. Johnson, and A.~Aspuru-Guzik.
+\newblock Expressibility and entangling capability of parameterized quantum
+  circuits for hybrid quantum-classical algorithms.
+\newblock \emph{Advanced Quantum Technologies}, 2\penalty0 (12):\penalty0
+  1900070, oct 2019.
+\newblock \doi{10.1002/qute.201900070}.
+\newblock URL \url{https://doi.org/10.1002%2Fqute.201900070}.
+
+\bibitem[Skolik et~al.(2021)Skolik, McClean, Mohseni, van~der Smagt, and
+  Leib]{Skolik_2021}
+A.~Skolik, J.~R. McClean, M.~Mohseni, P.~van~der Smagt, and M.~Leib.
+\newblock Layerwise learning for quantum neural networks.
+\newblock \emph{Quantum Machine Intelligence}, 3\penalty0 (1), jan 2021.
+\newblock \doi{10.1007/s42484-020-00036-4}.
+\newblock URL \url{https://doi.org/10.1007%2Fs42484-020-00036-4}.
+
+\bibitem[Stokes et~al.(2020)Stokes, Izaac, Killoran, and Carleo]{Stokes_2020}
+J.~Stokes, J.~Izaac, N.~Killoran, and G.~Carleo.
+\newblock Quantum natural gradient.
+\newblock \emph{Quantum}, 4:\penalty0 269, may 2020.
+\newblock \doi{10.22331/q-2020-05-25-269}.
+\newblock URL \url{https://doi.org/10.22331%2Fq-2020-05-25-269}.
+
+\bibitem[Stoudenmire and
+  White(2012)]{doi:10.1146/annurev-conmatphys-020911-125018}
+E.~Stoudenmire and S.~R. White.
+\newblock Studying two-dimensional systems with the density matrix
+  renormalization group.
+\newblock \emph{Annual Review of Condensed Matter Physics}, 3\penalty0
+  (1):\penalty0 111--128, 2012.
+\newblock \doi{10.1146/annurev-conmatphys-020911-125018}.
+\newblock URL \url{https://doi.org/10.1146/annurev-conmatphys-020911-125018}.
 
 \bibitem[Tilly et~al.(2021)Tilly, Chen, Cao, Picozzi, Setia, Li, Grant,
   Wossnig, Rungger, Booth, and Tennyson]{VQE_review}
@@ -11,5 +327,59 @@ J.~Tilly, H.~Chen, S.~Cao, D.~Picozzi, K.~Setia, Y.~Li, E.~Grant, L.~Wossnig,
   I.~Rungger, G.~H. Booth, and J.~Tennyson.
 \newblock The variational quantum eigensolver: a review of methods and best
   practices, 2021.
+
+\bibitem[Vidal(2003)]{PhysRevLett.91.147902}
+G.~Vidal.
+\newblock Efficient classical simulation of slightly entangled quantum
+  computations.
+\newblock \emph{Phys. Rev. Lett.}, 91:\penalty0 147902, Oct 2003.
+\newblock \doi{10.1103/PhysRevLett.91.147902}.
+\newblock URL \url{https://link.aps.org/doi/10.1103/PhysRevLett.91.147902}.
+
+\bibitem[Wang et~al.(2021{\natexlab{a}})Wang, Fontana, Cerezo, Sharma, Sone,
+  Cincio, and Coles]{Wang_2021}
+S.~Wang, E.~Fontana, M.~Cerezo, K.~Sharma, A.~Sone, L.~Cincio, and P.~J. Coles.
+\newblock Noise-induced barren plateaus in variational quantum algorithms.
+\newblock \emph{Nature Communications}, 12\penalty0 (1), nov
+  2021{\natexlab{a}}.
+\newblock \doi{10.1038/s41467-021-27045-6}.
+\newblock URL \url{https://doi.org/10.1038%2Fs41467-021-27045-6}.
+
+\bibitem[Wang et~al.(2021{\natexlab{b}})Wang, Fontana, Cerezo, Sharma, Sone,
+  Cincio, and Coles]{noise_barren_plateaus}
+S.~Wang, E.~Fontana, M.~Cerezo, K.~Sharma, A.~Sone, L.~Cincio, and P.~J. Coles.
+\newblock Noise-induced barren plateaus in variational quantum algorithms.
+\newblock \emph{Nature Communications}, 12\penalty0 (1), nov
+  2021{\natexlab{b}}.
+\newblock \doi{10.1038/s41467-021-27045-6}.
+\newblock URL \url{https://doi.org/10.1038%2Fs41467-021-27045-6}.
+
+\bibitem[Yamamoto(2019)]{https://doi.org/10.48550/arxiv.1909.05074}
+N.~Yamamoto.
+\newblock On the natural gradient for variational quantum eigensolver, 2019.
+\newblock URL \url{https://arxiv.org/abs/1909.05074}.
+
+\bibitem[Yen and Izmaylov(2021)]{Yen_2021}
+T.-C. Yen and A.~F. Izmaylov.
+\newblock Cartan subalgebra approach to efficient measurements of quantum
+  observables.
+\newblock \emph{{PRX} Quantum}, 2\penalty0 (4), oct 2021.
+\newblock \doi{10.1103/prxquantum.2.040320}.
+\newblock URL \url{https://doi.org/10.1103%2Fprxquantum.2.040320}.
+
+\bibitem[You and Nori(2003)]{PhysRevB.68.064509}
+J.~Q. You and F.~Nori.
+\newblock Quantum information processing with superconducting qubits in a
+  microwave field.
+\newblock \emph{Phys. Rev. B}, 68:\penalty0 064509, Aug 2003.
+\newblock \doi{10.1103/PhysRevB.68.064509}.
+\newblock URL \url{https://link.aps.org/doi/10.1103/PhysRevB.68.064509}.
+
+\bibitem[{\.{Z}}yczkowski and Sommers(2005)]{_yczkowski_2005}
+K.~{\.{Z}}yczkowski and H.-J. Sommers.
+\newblock Average fidelity between random quantum states.
+\newblock \emph{Physical Review A}, 71\penalty0 (3), mar 2005.
+\newblock \doi{10.1103/physreva.71.032313}.
+\newblock URL \url{https://doi.org/10.1103%2Fphysreva.71.032313}.
 
 \end{thebibliography}
